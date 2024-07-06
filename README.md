@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @YogeshShrivas23
-- 👀 I’m interested in Java Programming..
-- 🌱 I’m currently learning Webdev And Spring Boot Framework
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+:
 
-<!---
-YogeshShrivas23/YogeshShrivas23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hello, I'm YogeshShrivas23,
+
+👀 I am deeply passionate about Java Programming and currently honing my skills in Web Development and the Spring Boot framework.
+
+💼 I am eager to explore collaboration opportunities in the field.
+
+🌱 Reach out to me to discuss Java projects or opportunities!
+
+⚡ Fun fact: I enjoy exploring new programming challenges and technologies.
+
