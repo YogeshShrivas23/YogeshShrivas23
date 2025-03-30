@@ -1,12 +1,28 @@
-:
+🚀 Hey there! I'm Yogesh Shrivas 👋
+💻 Java Developer | Backend Engineer | Tech Enthusiast
+🔹 Passionate about building scalable, high-performance applications using Java, Spring Boot, and modern backend technologies.
+🔹 Exploring the world of Web Development, Microservices, and Cloud Computing to craft robust, enterprise-grade solutions.
+🔹 Strong foundation in Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), and Database Management Systems (DBMS).
 
-👋 Hello, I'm YogeshShrivas23,
+🛠 Tech Stack & Skills
+✔ Languages: Java ☕ | JavaScript ✨ | SQL 📊
+✔ Frameworks & Tools: Spring Boot ⚙️ | Hibernate 🏗 | Express.js 🌍 | Node.js 🚀
+✔ Databases: PostgreSQL 🐘 | MySQL 🏛 | MongoDB 🍃
+✔ Version Control: Git & GitHub 🖥
+✔ Other: REST APIs 🌐 | Authentication 🔐 | Problem Solving 🧠
 
-👀 I am deeply passionate about Java Programming and currently honing my skills in Web Development and the Spring Boot framework.
+🎯 What I’m Up To
+🚀 Enhancing my expertise in backend development and scaling distributed systems.
+📚 Learning about Cloud Computing & DevOps tools to optimize application deployment.
+💡 Actively participating in coding competitions and open-source contributions.
 
-💼 I am eager to explore collaboration opportunities in the field.
+🤝 Let's Connect & Build Together!
+📩 Open to collaborations, freelance opportunities, and knowledge sharing.
+💬 Let’s discuss Java, Spring Boot, Backend Development, and cutting-edge tech trends!
 
-🌱 Reach out to me to discuss Java projects or opportunities!
+📍 Find me here:
+🔗 GitHub: YogeshShrivas23
+🔗 LinkedIn: LinkedIn Profile
 
-⚡ Fun fact: I enjoy exploring new programming challenges and technologies.
+⚡ Fun Fact: I enjoy debugging complex issues, automating tasks, and exploring new programming paradigms! 🚀✨
 
